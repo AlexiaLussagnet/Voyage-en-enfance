@@ -8,6 +8,10 @@
     src: url(polices/kindergarten.ttf);
 }
 
+html{
+overflow -x : hidden; 
+}
+
 body{
     background-color: #FCE4D8;
 }
