@@ -334,7 +334,7 @@ h2{
 
 .plumes1{
 	position: absolute;
-	width: 25vw;
+	width: 20vw;
 
 }
 .plumes2{
@@ -343,7 +343,7 @@ h2{
 	top:210vw;
 	left:80vw;
 	transform: rotate(180deg);
-	width: 25vw;
+	width: 20vw;
 	
 }
 
