@@ -191,6 +191,7 @@ h1{
     left:0;
     opacity: 60%;
     margin-top: 5%;
+	width: 100vw;
 }
 
 h2{
@@ -308,6 +309,7 @@ h2{
 	top:165vw;
 	left: 0;
 	z-index: 0;
+	width: 100vw;
 }
 
 .paillettes2{
@@ -316,6 +318,7 @@ h2{
 	left: 0;
 	z-index: 0;
 	transform: rotate(180deg);
+	width: 100vw;
 }
 
 .divform{
@@ -331,6 +334,7 @@ h2{
 
 .plumes1{
 	position: absolute;
+	width: 30vw;
 
 }
 .plumes2{
@@ -339,6 +343,7 @@ h2{
 	top:210vw;
 	left:80vw;
 	transform: rotate(180deg);
+	width: 30vw;
 	
 }
 
@@ -479,6 +484,7 @@ h2{
 	top:240vw;
 	left:0;
 	z-index: 0;
+	width: 100vw;
 }
 
 footer{
